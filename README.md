@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hey 👋 I'm Sarah (Sm10259)
+
+I'm a Computer Science Senior at the University of Central Florida ⚔️ and a full-stack developer!
+
+I currently manage the technology and digital experiences for [Imagineering Parks](https://imagineeringparks.com)! I also contribute to Open Source projects and develop a few Minecraft plugins.
+
+🖥️ Check out my [portfolio website](http://sarahmyerson.com) for a showcase of things I have done and some experiments I've created in the past.
+
+👻 I also enjoy creative writing, distance running, and theme park design!
+
+🔭 I’m currently working on a suite of CraftBukkit server mangement plugins.
+
+⚡ Fun fact: I'm a Bellhop at the Hollywood Tower Hotel 😄
+##
+_Want to help my current projects be maintained and others like it in development?
+[Consider buying me a coffee!](https://www.buymeacoffee.com/sarahmyerson)_
 
 <!--
 **Sm10259/sm10259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
