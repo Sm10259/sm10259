@@ -8,8 +8,6 @@ I currently manage the technology and digital experiences for [Imagineering Park
 
 👻 I also enjoy creative writing, distance running, and theme park design!
 
-🔭 I’m currently working on a suite of CraftBukkit server mangement plugins.
-
 ⚡ Fun fact: I'm a Bellhop at the Hollywood Tower Hotel 😄
 ##
 _Want to help my current projects be maintained and others like it in development?
