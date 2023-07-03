@@ -7,8 +7,6 @@ I currently manage the technology and digital experiences for [Imagineering Park
 🖥️ Check out my [portfolio website](http://sarahmyerson.com) for a showcase of things I have done and some experiments I've created in the past.
 
 👻 I also enjoy creative writing, distance running, and theme park design!
-
-⚡ Fun fact: I'm a Bellhop at the Hollywood Tower Hotel 😄
 ##
 _Want to help my current projects be maintained and others like it in development?
 [Consider buying me a coffee!](https://www.buymeacoffee.com/sarahmyerson)_
