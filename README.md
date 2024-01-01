@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Sarah (Sm10259)
 
-I'm a Computer Science Senior at the University of Central Florida ⚔️ and a full-stack developer!
+I'm a systems engineer at Disney and a full-stack developer!
 
 I currently manage the technology and digital experiences for [Imagineering Parks](https://imagineeringparks.com)! I also contribute to Open Source projects and develop a few Minecraft plugins.
 
